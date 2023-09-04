@@ -5,3 +5,4 @@ ZCZC W00 20 L04 GitHub Pages related
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00 75 L05 Quiz related including studying
 ZCZC W00 20 L41 TXT/mylog.txt related.
+ZCZC W00 30 L29 OS Shoping related: buy a laptop, flashdisk, etc.
