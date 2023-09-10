@@ -10,5 +10,7 @@ Some easy-to-use commands you can use to inspect hardware.
 These commands will help you list PCI devices, view information about your CPU, and more.
 * [OS232 Course Site](https://os.vlsm.org/) ---
 Official Course Site for OS
+*[OS Slides](https://github.com/os2xx/os/tree/master/Slides/)---
+Complete Slides from class
 <br>
 <hr>
