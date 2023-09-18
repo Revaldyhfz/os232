@@ -17,6 +17,6 @@ full list to use in Github
 * [Gthub Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ---
 Markdown Guides for Github
 * [Bash Cheatsheet/Guides](https://devhints.io/bash) --- Guides for using bash
-* [Beginner's Guide ot the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag&pp=ygUOZ3VpZGVzIG9uIGJhc2g%3D0 --- Helpful guide on using guide in a complete video form
+* [Beginner's Guide ot the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag&pp=ygUOZ3VpZGVzIG9uIGJhc2g%3D0) --- Helpful guide on using guide in a complete video form
 <br>
 <hr>
