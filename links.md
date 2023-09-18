@@ -18,5 +18,6 @@ full list to use in Github
 Markdown Guides for Github
 * [Bash Cheatsheet/Guides](https://devhints.io/bash) --- Guides for using bash
 * [Beginner's Guide ot the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag&pp=ygUOZ3VpZGVzIG9uIGJhc2g%3D0) --- Helpful guide on using guide in a complete video form
+* [Bash Scripting Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) --- Free Course for bash Scripting
 <br>
 <hr>
