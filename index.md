@@ -1,5 +1,4 @@
 # OS232
 
-|| [TARBALL](https://os.vlsm.org/Log/Revaldyhfz.tar.bz2.txt) || [LINKS](links.md) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/Revaldyhfz/os232) ||
+[LOG](TXT/mylog.txt) || [GitHub](https://github.com/Revaldyhfz) || [LINKS](LINKS/) || [TARBALL](https://os.vlsm.org/Log/Revaldyhfz.tar.bz2.txt)
 
-#### REV01: Mon Sep 2023 00:30
