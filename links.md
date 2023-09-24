@@ -18,5 +18,7 @@ Markdown Guides for Github
 * [Bash Cheatsheet/Guides](https://devhints.io/bash) --- Guides for using bash in a cheatsheet form
 * [Beginner's Guide ot the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag&pp=ygUOZ3VpZGVzIG9uIGJhc2g%3D0) --- Helpful guide on using guide in a complete video form
 * [Bash Scripting Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) --- Free Course for bash Scripting
+* [Learn C](https://www.learn-c.org/) --- Free C Language learning Websites
+* [Bash Scripting on Linux](https://www.youtube.com/watch?v=2733cRPudvI&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w) --- A complete bash scripting playlist on youtube
 <br>
 <hr>
