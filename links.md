@@ -20,5 +20,7 @@ Markdown Guides for Github
 * [Bash Scripting Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) --- Free Course for bash Scripting
 * [Learn C](https://www.learn-c.org/) --- Free C Language learning Websites
 * [Bash Scripting on Linux](https://www.youtube.com/watch?v=2733cRPudvI&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w) --- A complete bash scripting playlist on youtube
+* [Linux From Scratch Playlist](https://www.youtube.com/watch?v=2YykwZHdvD8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb) --- LFS Playlist i found on youtube
+* [you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows)](https://www.youtube.com/watch?v=wX75Z-4MEoM&pp=ygVPeW91IG5lZWQgdG8gbGVhcm4gVmlydHVhbCBNYWNoaW5lcyBSSUdIVCBOT1chISAoS2FsaSBMaW51eCBWTSwgVWJ1bnR1LCBXaW5kb3dzKQ%3D%3D) --- Interesting video regarding virutal machines in general
 <br>
 <hr>

@@ -17,3 +17,8 @@ ZCZC W03 40 L63 Fixing Hardware Problems
 ZCZC W03 30 L64 Helping a friend (OS related problem)
 ZCZC W03 30 L29 OS Shoping related: buy a laptop, flashdisk, etc.
 ZCZC W03 40 L01 SCELE/Discord related
+ZCZC W04 40 L14 Assignment #04
+ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 30 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
+ZCZC W04 30 L64 Helping a friend (OS related problem)
+ZCZC W04 40 L82 Reading Book (paper or online)
