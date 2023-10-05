@@ -22,3 +22,9 @@ ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 30 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
 ZCZC W04 30 L64 Helping a friend (OS related problem)
 ZCZC W04 40 L82 Reading Book (paper or online)
+ZCZC W05 30 L00 General, etc.
+ZCZC W05 35 L01 SCELE/Discord related
+ZCZC W05 20 L03 GitHub related
+ZCZC W05 10 L04 GitHub Pages related
+ZCZC W05 20 Quiz related including studying
+ZCZC W05 50 L15 Assignment #05
