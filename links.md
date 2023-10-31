@@ -23,5 +23,7 @@ Markdown Guides for Github
 * [Linux From Scratch Playlist](https://www.youtube.com/watch?v=2YykwZHdvD8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb) --- LFS Playlist i found on youtube
 * [you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows)](https://www.youtube.com/watch?v=wX75Z-4MEoM&pp=ygVPeW91IG5lZWQgdG8gbGVhcm4gVmlydHVhbCBNYWNoaW5lcyBSSUdIVCBOT1chISAoS2FsaSBMaW51eCBWTSwgVWJ1bnR1LCBXaW5kb3dzKQ%3D%3D) --- Interesting video regarding virutal machines in general
 * [Crashes, Cosmic Rays and Kernel Panic - Computerphile](https://www.youtube.com/watch?v=nr9auoHtvzM) --- How or why would a computer ever panic?, a short explanation about the topic
+* [the fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14&pp=ygULZm9yaygpIGluIGM%3D) --- Fork functions explained inc by CodeVault
+* [A comprehensive guide on pointers in C.](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) --- Pointers and presenting information in C
 <br>
 <hr>
