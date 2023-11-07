@@ -25,5 +25,7 @@ Markdown Guides for Github
 * [Crashes, Cosmic Rays and Kernel Panic - Computerphile](https://www.youtube.com/watch?v=nr9auoHtvzM) --- How or why would a computer ever panic?, a short explanation about the topic
 * [the fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14&pp=ygULZm9yaygpIGluIGM%3D) --- Fork functions explained inc by CodeVault
 * [A comprehensive guide on pointers in C.](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) --- Pointers and presenting information in C
+* [Shared Memory Systems](https://www.youtube.com/watch?v=uHtzOFwgD74) --- A comprehesive video regarding Shared Memory systems
+* [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w&pp=ygURY29tbWFuZHMgaW4gbGludXg%3D) -- Short video about linux commands
 <br>
 <hr>
