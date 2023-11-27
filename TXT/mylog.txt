@@ -43,3 +43,7 @@ ZCZC W08 60 L01 SCELE/Discord related
 ZCZC W08 45 L05 Quiz related including studying
 ZCZC W08 120 L18 Assignment #08
 ZCZC W08 30 L21 Trying something
+ZCZC W09 120 L19 Assignment #09
+ZCZC W09 45 L05 Quiz related including studying
+ZCZC W09 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W09 30 L73 Gaming including Board Games.

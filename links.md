@@ -29,5 +29,6 @@ Markdown Guides for Github
 * [60 Linux Commands you NEED to know (in 10 minutes)](https://www.youtube.com/watch?v=gd7BXuUQ91w&pp=ygURY29tbWFuZHMgaW4gbGludXg%3D) -- Short video about linux commands
 * [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=uDxI6aZp2d4zLhSW) --- a complete tutorial on installing linux from scratch
 * [Linux from Scratch First Impressions: Waste Of Time?](https://www.youtube.com/watch?v=1eOdaXS-wVE) --- an interesting video about LFS 
+* [What Is GRUB Bootloader and What Does It Do?](https://www.makeuseof.com/what-is-grub/) --- Explanation related to GRUB Bootloader
 <br>
 <hr>
